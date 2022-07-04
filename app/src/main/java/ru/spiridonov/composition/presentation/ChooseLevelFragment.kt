@@ -6,7 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import ru.spiridonov.composition.R
 import ru.spiridonov.composition.databinding.FragmentChooseLevelBinding
 import ru.spiridonov.composition.domain.entity.Level
 
